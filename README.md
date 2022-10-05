@@ -1,27 +1,27 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Linkspage" />
+  <img src="./.github/app.gif" alt="links" />
 
   &#xa0;
 
-  <!-- <a href="https://linkspage.netlify.app">Demo</a> -->
+  <!-- <a href="https://links.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Links Page</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mrydev/linkspage?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mrydev/links?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mrydev/linkspage?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mrydev/links?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mrydev/linkspage?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mrydev/links?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/mrydev/linkspage?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/mrydev/links?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/mrydev/linkspage?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/mrydev/links?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/mrydev/linkspage?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/mrydev/links?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/mrydev/linkspage?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/mrydev/links?color=56BEB8" /> -->
 </p>
 
 
